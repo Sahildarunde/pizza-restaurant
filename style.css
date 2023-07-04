@@ -599,6 +599,10 @@ main{
     right: 100px;
     background-color: transparent;
 }
+.map iframe{
+    width: 685px;
+    height: 438px;
+}
 .left{
     position: absolute;
     top: 6000px;
